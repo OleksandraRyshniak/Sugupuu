@@ -1,0 +1,15 @@
+﻿nimi {
+    display: block;
+    margin: 10px;
+    color: lightcoral;
+    font-family: Georgia Verdana sans-serif;
+    font-weight: bold;
+    width: 200px;
+    border: 1pt solid black;
+}
+inimene {
+    background-color: lightblue;
+    padding: 10px;
+    margin-left: 1%;
+    width: 20%;
+}
