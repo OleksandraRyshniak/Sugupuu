@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene synd="1962">
+	<nimi>Valentina</nimi>
+	<lapsed>
+		<inimene synd="1982">
+			<nimi>Olena</nimi>
+			<lapsed>
+				<inimene synd="2003">
+					<nimi>Anastasiia</nimi>
+				</inimene>
+				<inimene synd="2008">
+					<nimi>Oleksandra</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
