@@ -1,0 +1,12 @@
+﻿@page
+@model sugulasedRakendusXML.Pages.ReisModel
+@{
+    ViewData["Title"] = "Reisid";
+}
+
+<main aria-labelledby="title">
+    <h2 id="title">@ViewData["Title"]</h2>
+    <div>
+        @Html.Raw(Model.XmlHtml)
+    </div>
+</main>

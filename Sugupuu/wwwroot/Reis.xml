@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="reisid.xsl"?>
+<reisid>
+	<reis aasta='2026'>
+		<suund id="United States">
+			<Nimetus>Resort</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>5</hinnang>
+			<reisihind>232.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Russia">
+			<Nimetus>Point</Nimetus>
+			<Riik>South Africa</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Rong</transport>
+			<hinnang>4</hinnang>
+			<reisihind>39.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Indonesia">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>3</hinnang>
+			<reisihind>251.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Finland">
+			<Nimetus>Center</Nimetus>
+			<Riik>Portugal</Riik>
+			<Pikkus>4</Pikkus>
+			<transport>Laev</transport>
+			<hinnang>5</hinnang>
+			<reisihind>26.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Malaysia">
+			<Nimetus>Street</Nimetus>
+			<Riik>Japan</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>2</hinnang>
+			<reisihind>168.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="China">
+			<Nimetus>Place</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Buss</transport>
+			<hinnang>4</hinnang>
+			<reisihind>88.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Argentina">
+			<Nimetus>Avenue</Nimetus>
+			<Riik>Bulgaria</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>1</hinnang>
+			<reisihind>174.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Philippines">
+			<Nimetus>Street</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Auto</transport>
+			<hinnang>5</hinnang>
+			<reisihind>66.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Bulgaria">
+			<Nimetus>Trail</Nimetus>
+			<Riik>Morocco</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>3</hinnang>
+			<reisihind>299.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="France">
+			<Nimetus>Park</Nimetus>
+			<Riik>South Korea</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Rong</transport>
+			<hinnang>4</hinnang>
+			<reisihind>27.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="China">
+			<Nimetus>Plaza</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>5</hinnang>
+			<reisihind>382.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Japan">
+			<Nimetus>Center</Nimetus>
+			<Riik>Philippines</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Laev</transport>
+			<hinnang>4</hinnang>
+			<reisihind>84.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Indonesia">
+			<Nimetus>Center</Nimetus>
+			<Riik>Syria</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>3</hinnang>
+			<reisihind>204.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Indonesia">
+			<Nimetus>Plaza</Nimetus>
+			<Riik>Macedonia</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Buss</transport>
+			<hinnang>5</hinnang>
+			<reisihind>24.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="France">
+			<Nimetus>Avenue</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>5</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>2</hinnang>
+			<reisihind>172.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Ethiopia">
+			<Nimetus>Point</Nimetus>
+			<Riik>Russia</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Auto</transport>
+			<hinnang>4</hinnang>
+			<reisihind>75.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="China">
+			<Nimetus>Drive</Nimetus>
+			<Riik>France</Riik>
+			<Pikkus>4.5</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>1</hinnang>
+			<reisihind>257.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Panama">
+			<Nimetus>Street</Nimetus>
+			<Riik>United States</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Rong</transport>
+			<hinnang>5</hinnang>
+			<reisihind>28.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Portugal">
+			<Nimetus>Pass</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>3</hinnang>
+			<reisihind>211.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Syria">
+			<Nimetus>Center</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Laev</transport>
+			<hinnang>4</hinnang>
+			<reisihind>31.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Greece">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>France</Riik>
+			<Pikkus>17</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>5</hinnang>
+			<reisihind>291.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Russia">
+			<Nimetus>Pass</Nimetus>
+			<Riik>Thailand</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Buss</transport>
+			<hinnang>4</hinnang>
+			<reisihind>74.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="China">
+			<Nimetus>Hill</Nimetus>
+			<Riik>Croatia</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>3</hinnang>
+			<reisihind>165.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Portugal">
+			<Nimetus>Street</Nimetus>
+			<Riik>Brazil</Riik>
+			<Pikkus>5</Pikkus>
+			<transport>Auto</transport>
+			<hinnang>5</hinnang>
+			<reisihind>92.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Cameroon">
+			<Nimetus>Place</Nimetus>
+			<Riik>Brazil</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>2</hinnang>
+			<reisihind>181.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Indonesia">
+			<Nimetus>Road</Nimetus>
+			<Riik>Portugal</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Rong</transport>
+			<hinnang>4</hinnang>
+			<reisihind>48.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Venezuela">
+			<Nimetus>Court</Nimetus>
+			<Riik>Sweden</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>1</hinnang>
+			<reisihind>311.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Gambia">
+			<Nimetus>Street</Nimetus>
+			<Riik>Latvia</Riik>
+			<Pikkus>1.5</Pikkus>
+			<transport>Laev</transport>
+			<hinnang>5</hinnang>
+			<reisihind>100.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Philippines">
+			<Nimetus>Lane</Nimetus>
+			<Riik>France</Riik>
+			<Pikkus>4</Pikkus>
+			<transport>Lennuk</transport>
+			<hinnang>3</hinnang>
+			<reisihind>299.00</reisihind>
+		</suund>
+	</reis>
+	<reis aasta='2026'>
+		<suund id="Ukraine">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>Argentina</Riik>
+			<Pikkus>3</Pikkus>
+			<transport>Buss</transport>
+			<hinnang>4</hinnang>
+			<reisihind>27.00</reisihind>
+		</suund>
+	</reis>
+</reisid>
